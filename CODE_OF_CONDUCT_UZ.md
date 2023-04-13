@@ -1,6 +1,6 @@
 # A'zoning axloq kodeksi
 
-:back: [README](README-UZ)
+:back: [README](README-UZ.md)
 
 ## Majburiyatlar
 
